@@ -1,0 +1,15 @@
+.media{
+    text-align: center;
+}
+.image{
+    margin-left: 350px;
+    border: red solid;
+}
+.titre{
+    color: red;
+    text-align: center;
+    border: red solid;
+}
+.table{
+    border: 1px solid ;
+}
